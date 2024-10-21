@@ -3,7 +3,7 @@
 <p>Looking for new challenges.</p>
 
 - 📚 Computer Science student
-- 📍 Located in São Paulo, Brazil
+- 📍 Located in Brazil
 - 💻 I’m interested in Web Development
 - 🧠 I’m currently learning Node.JS, React.JS, Frontend development.
 - 📫 You can reach me at fernandeskaaique@gmail.com
