@@ -5,7 +5,7 @@
 - 📚 Computer Science student
 - 📍 Located in São Paulo, Brazil
 - 💻 I’m interested in Web Development
-- 🧠 I’m currently learning Node.JS, React.JS, Frontend development.
+- 🧠 I’m currently learning Node.JS & React.JS.
 - 📫 You can reach me at fernandeskaaique@gmail.com
 
 ### Skills
