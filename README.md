@@ -1,6 +1,6 @@
 <h1>Hey, I'm Kaique Fernandes</h1>
 <h2>Web Developer</h2>
-<p>Looking for new challenges.</p>
+<p>Looking for a new challenge!</p>
 
 - 📚 Computer Science student
 - 📍 Located in São Paulo, Brazil
